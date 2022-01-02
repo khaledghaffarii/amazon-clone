@@ -1,15 +1,8 @@
-# Redux Toolkit example
+# AMAZON REACT.JS Next.js Clone      
 
-This example shows how to integrate Next.js with [Redux Toolkit](https://redux-toolkit.js.org).
+![ReactJS Resume Website Template](amazon.jpeg?raw=true "ReactJS Resume Website Template")
 
-The **Redux Toolkit** is intended to be the standard way to write Redux logic (create actions and reducers, setup the store with some default middlewares like redux devtools extension). This example demonstrates each of these features with Next.js
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-redux-toolkit&project-name=with-redux-toolkit&repository-name=with-redux-toolkit)
-
+## <a href="https://amazon-clone-kappa-six.vercel.app/" target="_blank">LIVE DEMO</a>
 ## How to use
 
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
